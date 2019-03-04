@@ -94,4 +94,4 @@ I'm a PhD student in Nanjing University, School of Earth Sciences and Engineerin
 - P and S wave seismic anisotropy and tomography
 - Subduction zones: structures, geodynamics and seismotectonics. 
 
-Sence 2013, I have been in this group to study the crustal and mantle transition zone structures in SE Tibet using Receiver Function method. I have developed *Seispy*, *SplitRFLab*, *SFT*, *BQMail* to process seismic data.
+Since 2013, I have been in this group to study the crustal and mantle transition zone structures in SE Tibet using Receiver Function method. I have developed *Seispy*, *SplitRFLab*, *SFT*, *BQMail* to process seismic data.
